@@ -7,14 +7,10 @@ I thrive on automating everything — from cloud infrastructure to CI/CD pipelin
 
 🌱 Currently Exploring:
 
-Advanced GitOps workflows to streamline CI/CD processes
-
-Building multi-cloud architectures for added resilience
-
 Deepening my expertise in cloud security to ensure iron-clad infrastructures
 
 💬 Let’s Connect:
-I’m always excited to collaborate on open-source DevOps tools, Kubernetes operators, or cloud-native development automation projects. If you share the same passion or need help with your cloud infrastructure, feel free to reach out!
+I’m always excited to collaborate on cloud-native development automation projects. If you share the same passion or need help with your cloud infrastructure, feel free to reach out!
 
 📧 Contact me:
 
