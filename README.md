@@ -15,7 +15,8 @@ I’m always excited to collaborate on cloud-native development automation proje
  Contact me:
 
 [LinkedIn](https://www.linkedin.com/in/svetlanaburn/)
-https://www.svetlana-burninova.link/
+
+[Webpage](https://www.svetlana-burninova.link/)
 
 Email: svetlana.devops@gmail.com
 
