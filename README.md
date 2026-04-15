@@ -8,4 +8,3 @@ Contact me:
 [Webpage](https://www.svetlana-burninova.link/)
 
 Email: svetlana@ypa.finance
-
