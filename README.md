@@ -44,7 +44,7 @@ and designed to prevent cascading failures.
 
 - **LinkedIn:** [Svetlana Burninova](https://linkedin.com/in/svetlana-ypa-finance)
 - **Company:** [ypa.finance](https://ypa.finance)
-- **In the Press:** Featured on [TechBullion](https://techbullion.com/from-financial-systems-to-ai-infrastructure-how-svetlana-burninova-is-engineering-financial-clarity-at-scale/), HackerNoon, and Medium
+- **In the Press:** Featured on [TechBullion](https://techbullion.com/from-financial-systems-to-ai-infrastructure-how-svetlana-burninova-is-engineering-financial-clarity-at-scale/), [HackerNoon](https://hackernoon.com/how-i-cut-aws-compute-costs-by-70percent-with-a-multi-arch-eks-cluster-and-karpenter), [Medium](https://medium.com/@svetlana.devops), and [YPA Finance](https://www.ypa.finance/en/blog/is-it-safe-to-connect-bank-account-to-finance-app)
 
 ---
 
